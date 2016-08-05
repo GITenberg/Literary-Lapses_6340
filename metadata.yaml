@@ -1,0 +1,41 @@
+_repo: Literary-Lapses_6340
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leacock, Stephen
+    alias: Leacock, Stephen Butler
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '1221'
+    url: http://www.gutenberg.org/2009/agents/1221
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Leacock
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6340'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories, Canadian'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'My financial career -- Lord Oxhead''s secret -- Boarding-house geometry
+  -- The awful fate of Melpomenus Jones -- A Christmas letter -- How to make a million
+  dollars -- How to live to be 200 -- How to avoid getting married -- How to be a
+  doctor -- The new food -- A new pathology -- The poet answered -- The force of statistics
+  -- Men who have shaved me -- Getting the thread of it -- Telling his faults -- Winter
+  pastimes -- Number fifty-six -- Aristocratic education -- The conjurer''s revenge
+  -- Hints to travellers -- A manual of education -- Hoodoo McFiggin''s Christmas
+  -- The life of John Smith -- On collecting things -- Society chit-chat -- Insurance
+  up to-date -- Borrowing a match -- A lesson in fiction -- Helping the Armenians
+  -- A study in still life: the country hotel -- An experiment with Policeman Hogan
+  -- The passing of the poet -- Self-made men -- A model dialogue -- Bach to the bush
+  -- Reflections on riding -- Saloonio -- Half-hours with the poets: Mr. Wordsworth
+  and the cottage girl; How Tennyson killed the May queen; Old Mr. Longfellow on board
+  the "Hesperus" -- A, B, and C.'
+title: Literary Lapses
+url: http://www.gutenberg.org/ebooks/6340
